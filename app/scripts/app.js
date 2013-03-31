@@ -7,6 +7,10 @@ angular.module('karadeeApp', [])
         templateUrl: 'views/main.html',
         controller: 'MainCtrl'
       })
+      .when('/sheet/:sheetID', {
+        templateUrl: 'views/sheet.html',
+        controller: 'SheetCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });
