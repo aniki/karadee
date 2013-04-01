@@ -1,0 +1,83 @@
+@media only screen and (min-width: 768px) {
+
+/* ====================
+    WIDE: CSS3 Effects
+   ==================== */
+
+    .header-container,
+    .main aside {
+        -webkit-box-shadow: 0 5px 10px #aaa;
+           -moz-box-shadow: 0 5px 10px #aaa;
+                box-shadow: 0 5px 10px #aaa;
+    }
+
+/* ============
+    WIDE: Menu
+   ============ */
+
+    .title {
+        float: left;
+    }
+
+    nav {
+        float: right;
+        width: 38%;
+    }
+
+/* ============
+    WIDE: Main
+   ============ */
+    .main section {
+		border-radius: 10px;
+    }
+    .main .general {
+		position: relative;
+    }
+    .main .information {
+        float: left;
+        width: 100%;
+		padding-right: 30%;
+    }
+	
+	.main .portrait {
+		position: absolute;
+		width: 30%;
+		right: 0;
+		top: 0;
+		bottom: -60px;
+	}
+	.main .portrait input[type="file"] {
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		width: 100%;
+		opacity: 0;
+	}
+
+	.main .skills {
+		float: left;
+		width: 70%;
+	}
+	.main .skills fieldset {
+		float: left;
+		width: 46%;
+		margin-right: 4%;
+	}
+	.main .skills fieldset label {
+		width: 60%;
+	}
+	.main .skills fieldset input {
+		width: 39%;
+	}
+	
+	.main .aside {
+		float: left;
+		width: 30%;
+		margin-top: 60px;
+	}
+	
+
+}
+

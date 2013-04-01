@@ -1,0 +1,249 @@
+[
+	{
+		"metadata" : {
+			"game" : {
+				"id" : "0001",
+				"name" : "Star Wars D6"
+			},
+			"sheet" : {
+				"id" : "0001",
+				"title" : "Star Wars",
+				"owner" : "raphael"
+			}
+		},
+		"sections" : [
+			{
+				"id" : "",
+				"name" : "",
+				"label" : "",
+				"cssClass" : "",
+				"fieldsets" : [
+					{
+						"id" : "",
+						"name" : "general",
+						"label" : "",
+						"cssClass" : "general",
+						"fields" : [
+							{
+								"id" : "",
+								"type" : "text",
+								"name" : "characterName",
+								"label" : "Nom du personnage",
+								"value" : "John Doe",
+								"cssClass" : ""
+							},
+							{
+								"id" : "",
+								"type" : "text",
+								"name" : "type",
+								"label" : "Type",
+								"value" : "Pilote / Programmeur de droïdes",
+								"cssClass" : ""
+							},
+							{
+								"id" : "",
+								"type" : "text",
+								"name" : "gender_species",
+								"label" : "Genre / Espèce",
+								"value" : "Humain",
+								"cssClass" : ""
+							},
+							{
+								"id" : "",
+								"type" : "text",
+								"name" : "age",
+								"label" : "Age",
+								"value" : "31 ans",
+								"cssClass" : ""
+							},
+							{
+								"id" : "",
+								"type" : "text",
+								"name" : "height",
+								"label" : "Taille",
+								"value" : "178 cm",
+								"cssClass" : ""
+							},
+							{
+								"id" : "",
+								"type" : "text",
+								"name" : "weight",
+								"label" : "Poids",
+								"value" : "76 kg",
+								"cssClass" : ""
+							},
+							{
+								"id" : "",
+								"type" : "text",
+								"name" : "other",
+								"label" : "Autre",
+								"value" : "",
+								"cssClass" : ""
+							}
+						]
+					},
+					{
+						"id" : "",
+						"name" : "characterPic",
+						"label" : "",
+						"cssClass" : "picture",
+						"fields" : [
+							{
+								"id" : "",
+								"type" : "image",
+								"name" : "portrait",
+								"label" : "",
+								"value" : "http://domain.tld/path/to/resource/pic.png",
+								"cssClass" : ""
+							},
+							{
+								"id" : "",
+								"type" : "text",
+								"name" : "characterQuote",
+								"label" : "Citation du personnage",
+								"value" : "http://domain.tld/path/to/resource/pic.png",
+								"cssClass" : ""
+							}
+						]
+					}
+				]
+			},
+			{
+				"id" : "",
+				"name" : "",
+				"label" : "",
+				"cssClass" : "",
+				"fieldsets": [
+					 {
+						"id" : "",
+						"name" : "dexterity",
+						"label" : "Dextérité",
+						"cssClass" : "",
+						"fields" : [
+							{
+								"id" : "",
+								"type" : "text",
+								"name" : "characterName",
+								"label" : "Nom du personnage",
+								"value" : "John Doe",
+								"cssClass" : ""
+							},
+							{
+								"id" : "",
+								"type" : "text",
+								"name" : "type",
+								"label" : "Type",
+								"value" : "Pilote / Programmeur de droïdes",
+								"cssClass" : ""
+							},
+							{
+								"id" : "",
+								"type" : "text",
+								"name" : "gender_species",
+								"label" : "Genre / Espèce",
+								"value" : "Humain",
+								"cssClass" : ""
+							},
+							{
+								"id" : "",
+								"type" : "text",
+								"name" : "age",
+								"label" : "Age",
+								"value" : "31 ans",
+								"cssClass" : ""
+							},
+							{
+								"id" : "",
+								"type" : "text",
+								"name" : "height",
+								"label" : "Taille",
+								"value" : "178 cm",
+								"cssClass" : ""
+							},
+							{
+								"id" : "",
+								"type" : "text",
+								"name" : "weight",
+								"label" : "Poids",
+								"value" : "76 kg",
+								"cssClass" : ""
+							},
+							{
+								"id" : "",
+								"type" : "text",
+								"name" : "other",
+								"label" : "Autre",
+								"value" : "",
+								"cssClass" : ""
+							}
+						]
+					 },
+					 {
+						"id" : "",
+						"name" : "general",
+						"label" : "",
+						"cssClass" : "general",
+						"fields" : [
+							{
+								"id" : "",
+								"type" : "text",
+								"name" : "characterName",
+								"label" : "Nom du personnage",
+								"value" : "John Doe",
+								"cssClass" : ""
+							},
+							{
+								"id" : "",
+								"type" : "text",
+								"name" : "type",
+								"label" : "Type",
+								"value" : "Pilote / Programmeur de droïdes",
+								"cssClass" : ""
+							},
+							{
+								"id" : "",
+								"type" : "text",
+								"name" : "gender_species",
+								"label" : "Genre / Espèce",
+								"value" : "Humain",
+								"cssClass" : ""
+							},
+							{
+								"id" : "",
+								"type" : "text",
+								"name" : "age",
+								"label" : "Age",
+								"value" : "31 ans",
+								"cssClass" : ""
+							},
+							{
+								"id" : "",
+								"type" : "text",
+								"name" : "height",
+								"label" : "Taille",
+								"value" : "178 cm",
+								"cssClass" : ""
+							},
+							{
+								"id" : "",
+								"type" : "text",
+								"name" : "weight",
+								"label" : "Poids",
+								"value" : "76 kg",
+								"cssClass" : ""
+							},
+							{
+								"id" : "",
+								"type" : "text",
+								"name" : "other",
+								"label" : "Autre",
+								"value" : "",
+								"cssClass" : ""
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]
